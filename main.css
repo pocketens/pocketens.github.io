@@ -1,3 +1,38 @@
 .navbar {
-    background-color : black;
+    background:transparent;
+}
+body{
+ background: #DCDCDC;
+
+}
+.container {
+     background: url('https://www.allaboutstyle.co.uk/wp-content/uploads/2017/07/catherinecliffe-stylist-mua-0064.jpg') no-repeat center center fixed !important ;
+     color: white;
+     min-height: 100%;
+    height: 100%;
+    background-size: 100%;
+     background-position: center;
+     text-shadow: 1px 2px #000000
+
+
+}
+
+.collapse li a {
+    color: red;
+    opacity: 0.7;
+    background-color: white;
+}
+.navbar-brand {
+    color: red;
+    opacity: 0.8;
+    background-color: white;
+}
+
+footer {
+    position: fixed;
+    height: 40px;
+    bottom: 0;
+    width: 100%;
+    background-color:gray;
+    color:white;
 }
