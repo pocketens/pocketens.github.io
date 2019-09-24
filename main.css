@@ -3,7 +3,6 @@
 }
 body{
  background: #DCDCDC;
-
 }
 .container {
      background: url('https://www.allaboutstyle.co.uk/wp-content/uploads/2017/07/catherinecliffe-stylist-mua-0064.jpg') no-repeat center center fixed !important ;
@@ -13,9 +12,27 @@ body{
     background-size: 100%;
      background-position: center;
      text-shadow: 1px 2px #000000
-
-
 }
+
+.container2 {
+     background: url('https://www.slrlounge.com/wp-content/uploads/2019/01/SLR-Lounge-Best-Photography-Insurance-Options.jpg') no-repeat center center fixed !important ;
+     color: white;
+     min-height: 100%;
+    height: 100%;
+    background-size: 100%;
+     background-position: center;
+     text-shadow: 1px 2px #000000
+}
+.container3 {
+     background: url('https://i.pinimg.com/originals/6c/ef/72/6cef72f957eb5e99c41f4c017a74cd59.jpg') no-repeat center center fixed !important ;
+     color: white;
+     min-height: 100%;
+    height: 100%;
+    background-size: 100%;
+     background-position: center;
+     text-shadow: 1px 2px #000000
+}
+
 
 .collapse li a {
     color: red;
